@@ -39,3 +39,11 @@ uv run fastapi deploy
 [2.Python | FastAPI | Clean Architecture | Setup FastAPI And Doc (OpenAPI) Code With Richard](https://www.youtube.com/watch?v=ZMD8V_Q276I&list=PLztm2TugcV9Q3nb9iLXfZALmeVaiZSPJD&index=25) 
 
 [3.Python | FastAPI | Clean Architecture | HTTP Methods (GET | POST | PUT | PATCH DELETE) Code With Richard](https://www.youtube.com/watch?v=63Q4qEfxxyU&list=PLztm2TugcV9Q3nb9iLXfZALmeVaiZSPJD&index=25)
+
+[4.Python | FastAPI | Clean Architecture | Understanding Each Layer Code With Richard](https://www.youtube.com/watch?v=jVeoH-DMWSE&list=PLztm2TugcV9Q3nb9iLXfZALmeVaiZSPJD&index=24)
+
+[5.Python | FastAPI | Clean Architecture | Folder Structure Code With Richard](https://www.youtube.com/watch?v=Ypr7XGjk9UE&list=PLztm2TugcV9Q3nb9iLXfZALmeVaiZSPJD&index=24)
+
+
+
+[6.Python | FastAPI | Clean Architecture | Setup SQLAlchemy Code With Richard](https://www.youtube.com/watch?v=8me4vaXAYr0&list=PLztm2TugcV9Q3nb9iLXfZALmeVaiZSPJD&index=22)
