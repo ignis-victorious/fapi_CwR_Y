@@ -47,3 +47,5 @@ uv run fastapi deploy
 
 
 [6.Python | FastAPI | Clean Architecture | Setup SQLAlchemy Code With Richard](https://www.youtube.com/watch?v=8me4vaXAYr0&list=PLztm2TugcV9Q3nb9iLXfZALmeVaiZSPJD&index=22)
+
+[7.Python | FastAPI | Clean Architecture | Country Model Code With Richard](https://www.youtube.com/watch?v=TuSHoAda2bI&list=PLztm2TugcV9Q3nb9iLXfZALmeVaiZSPJD&index=20)
